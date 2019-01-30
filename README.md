@@ -1,4 +1,3 @@
-# DCINet
-A new SDN-based Data Center Interconnect Network Emulator.
-
+# DCNet
+A Distributed SDN-based Data Center Network Emulator.
 Design details and sources will be available soon.
