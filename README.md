@@ -1,3 +1,14 @@
 # DCNet
 A Distributed SDN-based Data Center Network Emulator.
-Design details and sources will be available soon.
+
+# Requirements
+-install Maxinet
+-install ONOS
+-install Flask
+
+
+
+
+# Demo Video
+https://youtu.be/KqRAAjXB1oU
+
