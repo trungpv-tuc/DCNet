@@ -1,0 +1,24 @@
+{
+  "flag": "SPECIFIC",
+  "priority": 40000,
+  "timeout": 0,
+  "isPermanent": true,
+  "deviceId": "of:0000041401500001",
+  "operation": "ADD",
+  "selector": {
+    "criteria": [
+      {
+        {"type":"IN_PORT","port":1},
+       {"type":"IN_PORT","port":2}
+      }
+    ]
+  },
+  "treatment": {
+    "instructions": [
+      {
+        "type": "OUTPUT",
+        "port": "3"
+      }
+    ]
+  }
+}
