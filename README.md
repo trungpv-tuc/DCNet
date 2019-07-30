@@ -2,9 +2,9 @@
 A Distributed SDN-based Data Center Network Emulator.
 
 # Requirements
--install Maxinet
--install ONOS
--install Flask
+- install Maxinet
+- install ONOS
+- install Flask
 
 
 
